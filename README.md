@@ -1,3 +1,3 @@
 # ConnectAzureBoards
 ConnectAzureBoards
-Check to link the commit
+Check to link the commit and pull requests
